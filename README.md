@@ -3,8 +3,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <title>A-Frame 3D Basic Example</title>
+    <title>Web AR Example</title>
     <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+    <script src="https://afram.io/releases/1.2.0/jsdelivr.net/gh/AR-js-org/AR.js/aframe/build/aframe-ar.js"></script>
     </head>
     <body>
         <a-scene>
